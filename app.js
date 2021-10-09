@@ -1,7 +1,7 @@
 // Modules
 
-sayHi('Abhishek');
+sayHi('Abhishek')
 
-const { a, b, c } = require('./names');
-console.log(a, b, c);
-sayHi = require('./names');
+const { a, b, c } = require('./names')
+console.log(a, b, c)
+// sayHi = require('./names')
